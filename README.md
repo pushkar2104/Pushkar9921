@@ -1,2 +1,3 @@
 # Pushkar9921
-This is my 2nd repo
+X = 10 + 10
+print X
